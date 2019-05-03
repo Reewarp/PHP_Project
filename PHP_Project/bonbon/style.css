@@ -1,0 +1,170 @@
+img
+{
+	width:143px;
+
+	height:143px;
+}
+
+.headerDiv
+{
+
+}
+
+.list-group 
+{
+
+}
+
+.card
+{
+	display:inline-block;
+	float:left;
+	background-color:#f08803;
+}
+
+
+.CardMarge
+{
+	padding-left:63px;
+}
+
+@font-face {
+    font-family: Scream Real;
+    src:url(Scream Real.ttf);
+	src:url(Anonymous.ttf);
+	src:url(Meriweather.ttf);
+
+}
+ 
+
+body
+{
+	background-color:#000c;
+	color:white;
+	position:d-block;
+
+}
+
+a.navbartitle
+{
+	float:left;
+
+}
+.navbar-brand img
+{	 
+	width:50px;
+	height:50px;
+	color:#ffaa00;
+
+}
+.navbar
+{
+	background-color:black;
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link
+{
+		color:#f08803;
+	font-size:30px;
+	
+}
+#nav-link-color
+{
+
+}
+
+#formcolor
+{
+	color:white;
+	
+}
+
+#navbarTogglerDemo03
+{
+		color:#f08803;
+}
+
+
+
+#table-position
+{
+	
+	
+
+}
+.w-75
+{
+	
+	padding-left:800px;
+	
+
+
+}
+
+#icon-home-panier
+{
+	
+	height:30px;
+	width:30px;
+}
+
+
+#myTab
+{
+	color:orange;
+
+}
+ 
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active 
+{
+    color: #f08803;
+    background-color: black;
+    border-color: white white black;
+}
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link
+{
+	color: #f088034d;
+    background-color: black;
+    border-color: white white black;
+	opacity:30;
+}
+.nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover
+{
+	color: #f08803;
+    background-color: black;
+    border-color: white white black;
+	opacity:30;
+}
+
+.form-control
+{
+	background-color:black;
+}
+
+#cardbuttoncolor:hover
+{
+	color: #f08803;
+
+}
+#cardbuttoncolor
+{
+	color: #f088034d;
+    background-color: black;
+    border-color: white white white;
+	font-size:17px;
+}
+
+#cardbuttoncolor2
+{
+	color: #f088034d;
+    background-color: black;
+	border-color: BLACK BLACK BLACK BLACK;
+	font-size:17px;
+}
+#cardbuttoncolor2:HOVER
+{
+	color: #f08803;
+    background-color: black;
+	border-color: BLACK BLACK BLACK BLACK;
+	font-size:17px;
+}
